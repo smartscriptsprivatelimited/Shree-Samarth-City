@@ -2,7 +2,7 @@
 
 **Client:** Shree Samarth City  
 **Sector:** Real Estate  
-**Website:** [shreesamarthcity.in](https://shreesamarthcity.in)
+**Website:** [shreesamarthcity.in](https://shreesamarthcity.in)  
 **Location:** Dharashiv City, Maharashtra  
 **Project Type:** Real Estate Business Website  
 **Technology Stack:** PHP, MySQL, WordPress, WooCommerce, Elementor, Astra Theme  
